@@ -11,3 +11,9 @@ nome.concat("!");
 nome.indexOf('e');
 nome.replace('Code', '!');
 nome.split('e');
+
+nome.concat(" Tarcisio");
+
+nome = nome.concat(" Tarcisio");
+
+nome.substring();

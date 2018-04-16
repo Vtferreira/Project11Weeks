@@ -1,0 +1,30 @@
+Cronograma - 11 semanas 
+
+-------------------------
+1 Semana - JavaScript - 
+
+Fonte: https://www.youtube.com/watch?v=oP2ProYre4k&index=4&list=PLQCmSnNFVYnT1-oeDOSBnt164802rkegc - Rodrigo Branas
+
+16/04 - Number
+16/04 - String
+
+
+
+
+
+
+
+
+-------------------------
+
+2 Semana - GIT
+
+
+
+
+
+
+
+
+
+-------------------------
