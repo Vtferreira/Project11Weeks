@@ -7,8 +7,8 @@ Fonte: https://www.youtube.com/watch?v=oP2ProYre4k&index=4&list=PLQCmSnNFVYnT1-o
 
 16/04 - Number
 16/04 - String
-17/04 - 
-17/94 - 
+17/04 - Boollean
+17/94 - Diferença entre undefined e null - visto metade do conteudo
 
 
 
